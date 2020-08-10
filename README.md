@@ -6,13 +6,19 @@
 - ⚡ Fun fact: Love music, animation, sports and all good things in my life. (I can sing well~XD)
 
 <a href="https://looperxx.github.io/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=looperxx&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=looperxx&count_private=true&show_icons=true" />
 </a>
+
+<a href="https://looperxx.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=looperxx&repo=DF-Net" />
+</a>    
+
 <!--
 <a href="https://looperxx.github.io/">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=looperxx&hide=HTML,PostScript" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=looperxx&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
 </a>
-->>
+-->
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
