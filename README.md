@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning nlp and ml/dl in [HIT-SCIR](https://ir.hit.edu.cn).
 - 💬 Communicate with me: [Zhihu](https://www.zhihu.com/people/xuxiao-looper).
-- 📫 How to reach me: [Outlook](mailto:looperxx@outlook.com) [Gmail](mailto:looperxx27@gmail.com).
-- ⚡ Fun fact: Love music, animation, sports and all good things in my life. (I can sing well XD)
+- 📫 How to reach me: [School](mailto:xxu@ir.hit.edu.cn) | [Outlook](mailto:looperxx@outlook.com) | [Gmail](mailto:looperxx27@gmail.com).
+- ⚡ Fun fact: Love music, sining, animation, sports and all good things in my life.
 
 <a href="https://looperxx.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=looperxx&count_private=true&show_icons=true" />
