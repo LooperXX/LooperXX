@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Xiao Xu.
-
+![](https://komarev.com/ghpvc/?username=LooperXX)
 - 🌱 I’m currently learning nlp and ml/dl in [HIT-SCIR](https://ir.hit.edu.cn).
 - 💬 Communicate with me: [Zhihu](https://www.zhihu.com/people/xuxiao-looper).
 - 📫 How to reach me: [School](mailto:xxu@ir.hit.edu.cn) | [Outlook](mailto:looperxx@outlook.com) | [Gmail](mailto:looperxx27@gmail.com).
